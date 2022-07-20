@@ -23,10 +23,4 @@ for mes in lista_meses:
             body=f'No mês {mes} alguém bateu a meta. Vendedor: {vendedor}, Vendas: {vendas}')
         print(message.sid)
 
-# Para cada arquivo:
-# Verificar se algum valor na coluna venda do arquivo é mai or que 55.000
 
-
-# Se for maior do que 55.000 Enviar um sms com o Nome, o mês e as vendas dele
-
-# Caso não seja maior do que 55.000 não quero fazer nada
