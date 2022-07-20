@@ -22,5 +22,3 @@ for mes in lista_meses:
             from_="+19104690833",
             body=f'No mês {mes} alguém bateu a meta. Vendedor: {vendedor}, Vendas: {vendas}')
         print(message.sid)
-
-
